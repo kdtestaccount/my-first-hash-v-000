@@ -15,6 +15,7 @@ def retrieval
                  }
 
   oil_paintings = shipping_manifest["oil_paintings"]
+  oil_paintings
 end
 
 def adding
